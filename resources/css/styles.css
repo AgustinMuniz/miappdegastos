@@ -1,0 +1,36 @@
+
+body {
+    max-width: 100%;
+}
+
+
+td, th{
+    text-align: center;
+    padding: 10px;
+    border: solid red 1px;
+    
+
+}
+
+    .tableFormat table {
+        margin: 10px auto;
+
+    }
+
+h1 {
+    text-align: center;
+}
+
+form{
+    text-align: center;
+    
+}
+
+
+.botonDeEnvio{
+    font-size: 23px;
+}
+
+tbody{
+    background-color: white;
+}        
